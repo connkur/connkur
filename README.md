@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @connkur
-- 👀 I’m interested in writing animation tools and retro game development
 - 📫 ckurtz35@gmail.com
 
 <!---
